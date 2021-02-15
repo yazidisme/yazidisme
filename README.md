@@ -1,4 +1,4 @@
-- 👋  I’m [Yazid](https://github.com/yazidisme)
+- 👋  I’m [Yazid](https://github.com/muhammad-yazid)
 - 🔭  I’m currently working on [Bhinneka.com](https://www.bhinneka.com/)
 - 🌱  I’m currently learning about quality engineering management
 - 📫  How to reach me: Go to my [linkedin account](https://www.linkedin.com/in/muhammadyazid26/)
