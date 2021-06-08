@@ -1,7 +1,7 @@
 - 👋  I’m [Yazid](https://github.com/yazidisme)
 - 🔭  I’m currently working on [Bhinneka.com](https://www.bhinneka.com/)
 - 🌱  I’m currently learning about quality engineering management
-- 📫  How to reach me: Go to my [linkedin account](https://www.linkedin.com/in/muhammadyazid26/)
+- 📫  How to reach me: Go to my [linkedin account](https://www.linkedin.com/in/yazidisme/)
 
 <!--
 **yazidisme/yazidisme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
