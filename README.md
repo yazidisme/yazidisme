@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=yazidisme&color=blue&style=plastic)
 
 - 👋  I’m [Yazid](https://github.com/yazidisme)
-- 🔭  I’m currently working on [Bhinneka.com](https://www.bhinneka.com/)
+- 🔭  I’m currently working on [tiket.com](https://www.tiket.com/)
 - 🌱  I’m currently learning about software quality management
 - 📫  How to reach me: Go to my [linkedin account](https://www.linkedin.com/in/yazidisme/)
 
