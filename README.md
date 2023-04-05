@@ -5,7 +5,7 @@
 - 🌱  I’m currently learning about software quality management
 - 📫  How to reach me: Go to my [linkedin account](https://www.linkedin.com/in/yazidisme/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yazidisme&theme=dark&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yazidisme)](https://github.com/yazidisme/github-readme-stats)
 
 <!--
 **yazidisme/yazidisme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
